@@ -1,0 +1,3 @@
+# bdgames
+I'm making html and flash games... Why? Because I feel like it...
+Word.
